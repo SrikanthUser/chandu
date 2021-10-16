@@ -2,3 +2,7 @@ int a,b,c;
   
 add c=a+b;
 print c;
+
+
+print a+b+c
+added code
